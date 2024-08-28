@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+html {
+	/* 文字のサイズを16pxにする */
+	font-size: 16px;
+	
+	/* フォントをゴシック体にする */
+	font-family: sans-serif;
+}
+
+th, td {
+	margin: auto;
+	font-size: 50px;
+	border: 1px solid #DBDBDB;
+	padding: 40px;
+	width: 250px;
+	
+}
